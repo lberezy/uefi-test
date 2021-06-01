@@ -1,1 +1,0 @@
-initSidebarItems({"constant":[["EFI_RUNTIME_SERVICES_SIGNATURE",""]],"struct":[["RuntimeServices",""]]});
