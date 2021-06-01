@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["EfiGuid",""],["Header",""],["SystemTable",""]]});
